@@ -5,7 +5,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=correawess&theme=dracula"/>
 </div>
 
-##
+## Tecnologias que utilizo no meu dia
 
 <div style="display: inline_block">
   <img align="center" height="30" width="40"alt="Js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
@@ -17,7 +17,7 @@
   <img align="center" height="30" width="40"alt="MYSQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"/>
 </div>
 
-## Tecnologias que utilizo no meu dia
+## 
 
 <div>
   <a target="_blank" href="https://www.linkedin.com/in/wesley-corr%C3%AAa-b03067221/">
